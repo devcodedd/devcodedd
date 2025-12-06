@@ -21,6 +21,7 @@ I use:
     
 <div align="center">
  these dont work idk why 
+ 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devcodedd&show_icons=true&theme=default&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true)
     
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devcodedd&layout=compact&theme=default&hide_border=true&bg_color=00000000)
