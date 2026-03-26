@@ -31,4 +31,10 @@ I use:
 [GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devcodedd&theme=default&hide_border=true&bg_color=00000000)
     
 </div>
-    
+you may contact me through the following socials
+email: devcoded.exe@gmail.com
+discord: devcoded
+telegram: devcoded
+twitter: devcodedtech
+thats it rlly
+yes i use the same user for most shit but ion care
