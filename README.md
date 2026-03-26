@@ -1,5 +1,5 @@
 <div align="center">
- The mind becomes unstoppable the moment you stop arguing with reality and start shaping it.
+ skidding and pasting might be hated, but using ai slop is more hated so lets all unite and hate on ai slop
     
 </div>
     
