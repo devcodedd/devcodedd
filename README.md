@@ -1,6 +1,6 @@
 <div align="center">
 
-skidding and pasting might be hated, but using ai slop is more hated — so lets all unite and hate on ai slop
+fuck 
 
 </div>
 
